@@ -22,7 +22,7 @@ list_of_files = [
     f"src/{project_name}/constants/__init__.py",
     "test/__init__.py",
     "test/test_data_processing.py",
-    "/test/test_evaluation.py",
+    "test/test_evaluation.py",
     "test/test_model_training.py",
     "config/config.yaml",
     "params.yaml",
