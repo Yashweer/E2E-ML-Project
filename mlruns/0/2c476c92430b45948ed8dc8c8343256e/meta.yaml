@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/YSindh/mycode/E2E-ML-Project/mlruns/0/2c476c92430b45948ed8dc8c8343256e/artifacts
+end_time: 1712565143379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c476c92430b45948ed8dc8c8343256e
+run_name: rebellious-mouse-568
+run_uuid: 2c476c92430b45948ed8dc8c8343256e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712565139684
+status: 3
+tags: []
+user_id: YSindh

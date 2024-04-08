@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/YSindh/mycode/E2E-ML-Project/mlruns/0/a249b5f13b0d4ae4a263da3b6bf2a75c/artifacts
+end_time: 1712564431587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a249b5f13b0d4ae4a263da3b6bf2a75c
+run_name: thundering-snake-268
+run_uuid: a249b5f13b0d4ae4a263da3b6bf2a75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712564427922
+status: 3
+tags: []
+user_id: YSindh
